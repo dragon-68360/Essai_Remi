@@ -1,0 +1,7 @@
+{
+  "name": "Plani-Mounier Application de Gestion des Chantiers de la société Mounier",
+  "description": "Une application interne pour la gestion des heures des techniciens et la validation par les chargés d'affaires avec export CSV.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
